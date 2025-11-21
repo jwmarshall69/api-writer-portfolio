@@ -4,11 +4,14 @@
       "path": "."
     }
   ],
-  "settings": {
-    "editor.wordWrap": "on",
-    "files.autoSave": "afterDelay",
-    "yaml.schemas": {
-      "openapi.yaml": "openapi-starter.yaml"
-    }
+  "settings": {},
+  "extensions": {
+    "recommendations": [
+      "streetsidesoftware.code-spell-checker",
+      "yzhang.markdown-all-in-one",
+      "redhat.vscode-yaml",
+      "esbenp.prettier-vscode",
+      "mhutchie.git-graph"
+    ]
   }
 }
