@@ -1,1 +1,4 @@
-
+openapi: 3.0.3
+info:
+  title: Mock Commerce API
+  version: 1.0.0
