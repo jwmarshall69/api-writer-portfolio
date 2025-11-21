@@ -1,11 +1,1 @@
 name: Documentation PR
-description: Submit documentation changes
-body:
-  - type: textarea
-    id: summary
-    attributes:
-      label: Summary
-  - type: textarea
-    id: checklist
-    attributes:
-      label: Checklist
